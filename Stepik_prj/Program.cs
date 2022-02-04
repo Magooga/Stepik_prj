@@ -38,7 +38,7 @@ namespace Stepik_prj
         //Proverka git
         public static int setStep()
         {
-
+            int s = 24;
             return stpbl;
         }
     }
