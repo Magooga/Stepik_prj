@@ -23,7 +23,7 @@ namespace Stepik_prj
 
         public string change()
         {
-            string str1 = "ggh";
+            string str1 = "aaaa";
             str1 = str1 + "hjkhj";
 
             return str1;
