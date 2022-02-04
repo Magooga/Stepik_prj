@@ -40,6 +40,7 @@ namespace Stepik_prj
         {
             int s = 24;
             int b = 35;
+            int c = 48;
             return stpbl;
         }
     }
