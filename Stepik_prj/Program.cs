@@ -39,6 +39,7 @@ namespace Stepik_prj
         public static int setStep()
         {
             int s = 24;
+            int b = 35;
             return stpbl;
         }
     }
