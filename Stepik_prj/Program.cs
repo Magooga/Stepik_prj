@@ -34,6 +34,13 @@ namespace Stepik_prj
             
             return stpbl;
         }
+
+        //Proverka git
+        public static int setStep()
+        {
+
+            return stpbl;
+        }
     }
 
     class Program
